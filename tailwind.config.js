@@ -18,6 +18,9 @@ export default {
         'gradient-primary': 'linear-gradient(to right, #F59E0B, #FCD34D)',
         'gradient-accent': 'linear-gradient(to right, #FFF7E6, #FCD34D)',
       },
+      fontFamily: {
+        'sf-pro': ['SF Pro Display', 'SF Pro Text', 'system-ui', 'sans-serif'],
+      },
     },
   },
   plugins: [],

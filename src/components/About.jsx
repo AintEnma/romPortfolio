@@ -6,11 +6,7 @@ const About = () => {
       <div className="max-w-6xl mx-auto">
         <div className="flex flex-col md:flex-row items-center gap-12">
           <div className="md:w-1/2">
-            <img 
-              src="../assets/heroPic1.png" 
-              alt="About Profile" 
-              className="w-full max-w-md rounded-lg shadow-lg object-cover"
-            />
+            
           </div>
           <div className="md:w-1/2 text-left">
             <h2 className="text-4xl font-bold text-black mb-4">About Me</h2>
