@@ -11,13 +11,13 @@ const Projects = () => {
     },
     {
       title: 'Project 2',
-      description: 'Mobile responsive e-commerce site with payment integration and user authentication.',
+      description: 'A simple game developed using Godot Engine with engaging gameplay mechanics.',
       image: 'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop',
       link: '#'
     },
     {
       title: 'Project 3',
-      description: 'Data visualization dashboard using Chart.js and Node.js backend for analytics.',
+      description: 'Banking system using java',
       image: 'https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=400&h=300&fit=crop',
       link: '#'
     },
